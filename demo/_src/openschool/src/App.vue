@@ -1,28 +1,29 @@
 <template>
-  <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="OpenSchool"/>
-  </div>
+<div id="app">
+  <img width="25%" src="./assets/logo.png">
+  <Header class="bg" />
+</div>
 </template>
 
+
+
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+
+import Header from './layouts/header.vue'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    Header
   }
 }
+
 </script>
 
-<style lang="scss">
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
+<style>
+.bg {
+  background-color: aquamarine;
 }
+
 </style>
+
