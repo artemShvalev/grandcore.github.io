@@ -1,7 +1,8 @@
 <template>
 <div id="app">
-  <img width="25%" src="./assets/logo.png">
-  <Header class="bg" />
+  <h1>App.vue</h1>
+  <!-- <Header class="bg" /> -->
+  <router-view /> 
 </div>
 </template>
 
@@ -10,6 +11,7 @@
 <script>
 
 import Header from './layouts/header.vue'
+
 
 export default {
   name: 'App',

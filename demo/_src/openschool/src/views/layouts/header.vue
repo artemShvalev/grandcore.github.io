@@ -4,7 +4,7 @@
   <div>
     <div>
   <button v-on:click="edata()">Рандомизировать</button>
-  <p>Результат: «{{ edata() }}»</p>
+  <p>Результат: «{{ counter }}»</p>
   <h1 v-if="awesome">Vue восхитителен!</h1>
   <h1 v-else>О, нет 😢</h1>
 </div>
@@ -12,8 +12,8 @@
   <div id="example1">
       <button v-on:click="addarr()">Добавить</button>
     <ul>
-    <li v-for="(itemm, index) in items" :key="itemm.message">
-      {{ parentMessage }} - {{ index }} - {{ itemm.message }}
+    <li v-for="(item, index) in items" :key="item.message">
+      {{ parentMessage }} - {{ index }} - {{ item.message }}
     </li>
 </ul>
   </div>
@@ -44,12 +44,12 @@ export default {
       items: [
         { message: 'Foo' },
         { message: 'Bar' }
-    ]
+      ]
     }
   },
   methods: {
     edata: function () {
-      return Math.random();
+      this.counter = Math.random();
     },
     addarr: function (){
       if (!this.items[2]) {
@@ -59,6 +59,7 @@ export default {
     }  
   },
   computed: {
+
   }
 }
 </script>
