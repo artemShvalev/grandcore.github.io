@@ -10,7 +10,7 @@
 
 <script>
 
-import Header from './layouts/header.vue'
+import Header from './views/layouts/Header.vue'
 
 
 export default {
