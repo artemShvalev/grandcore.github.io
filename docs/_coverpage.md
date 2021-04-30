@@ -10,4 +10,4 @@
 <span style="vertical-align: -12px">![youtube](_media/icon-youtube.png ":size=32")</span> [**YouTube-Канал**](https://www.youtube.com/c/GrandCore/)
 <span style="vertical-align: -12px">![github](_media/icon-github.png ":size=32")</span> [**GitHub-Репозиторий**](https://github.com/grandcore/)
 
-[Перейти на сайт](/ru/1.0-main.md)
+[Перейти на сайт](/ru/)
