@@ -1,8 +1,7 @@
 ![logo](../_media/logo-nav.png ":size=200")
 
-- [О Фонде](ru/main.md)
+- [Самое главное](ru/)
+- [О Фонде](ru/1-about.md)
   - [Манифест](ru/1.1-manifest.md)
-  - [Манифест2](ru/1.1-manifest.md)
-
-* [Test](ru/2-guide.md)
-* [Test2](guide.md)
+- [Текущие проекты](ru/2-cprojects.md)
+- [Перспективные проекты](ru/3-dprojects.md)

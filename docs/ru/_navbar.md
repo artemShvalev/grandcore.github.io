@@ -1,6 +1,6 @@
-- [Участвовать](comanda.md)
-- [Пожертвовать](donat.md)
+- [Участвовать](ru/comanda.md)
+- [Пожертвовать](ru/donat.md)
 
-- [Ru](/)
-- [Es](/es/)
-- [En](/en/)
+- [Ru](/ru/)
+- [Es](./lang-es.md)
+- [En](./lang-en.md)
