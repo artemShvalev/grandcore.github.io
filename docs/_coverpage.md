@@ -2,6 +2,8 @@
 
 ## Фонд Свободных Проектов
 
+- [🇺🇾 Español](es.md) | [🇺🇸 English](en.md)
+
 ![](_media/bg.png ":size=150")
 
 <span style="vertical-align: -12px">![telegram](_media/icon-telegram.png ":size=32")</span> [**Telegram-Канал**](https://t.me/grandcore_news)
