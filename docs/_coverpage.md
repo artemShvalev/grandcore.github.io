@@ -1,5 +1,3 @@
-# GrandCore Foundation | Фонд свободных проектов
-
 ![logo](_media/logo.png ":size=150")
 
 ## Фонд Свободных Проектов
