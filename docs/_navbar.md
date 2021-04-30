@@ -1,3 +1,3 @@
 - [Ru](/ru/)
-- [Es](./lang-es.md)
-- [En](./lang-en.md)
+- [Es](lang-es.md)
+- [En](lang-en.md)
