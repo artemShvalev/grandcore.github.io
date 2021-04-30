@@ -1,4 +1,4 @@
-![logo](_media/logo.png ":size=150")
+![logo](_media/site-logo.png ":size=150")
 
 ## Фонд Свободных Проектов
 

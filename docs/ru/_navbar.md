@@ -2,5 +2,5 @@
 - [Пожертвовать](ru/donat.md)
 
 - [Ru](/ru/)
-- [Es](./lang-es.md)
-- [En](./lang-en.md)
+- [Es](es.md)
+- [En](en.md)
