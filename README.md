@@ -1,3 +1,3 @@
 # GrandCore сайт
 
-Сайт находится по адресу [grandcore.org](https://grandcore.org)
+Наш текущий сайт находится по адресу [grandcore.org](https://grandcore.org)
