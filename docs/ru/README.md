@@ -8,4 +8,6 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9MhpHu85r08" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<!-- <input value="Нажми меня" onclick="qqq()" type="button"> -->
+Вы можете стать участником нашего проекта, [пожертвовав](ru/donat.md) посильную сумму. Все деньги пойдут на продвижение проекта.
+
+Также вы можете [присоедениться](ru/comanda.md) к нашим командам и участвовать в разработке. Мы всегда рады и дизайнерам и разработчикам и просто волонтёрам для выполнения задач не требующих специальных навыков.
