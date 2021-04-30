@@ -8,4 +8,7 @@
   - [GrandCore (платформа)](ru/2.2-grandcore.md)
   - [OpenSchool](ru/2.3-openschool.md)
   - [Coresh](ru/2.4-coresh.md)
-- [Перспективные проекты](ru/3-projects.md)
+- [Перспективные проекты](ru/3-plans.md)
+  - [Человеческий Язык](ru/3.1-lingohumano.md)
+  - [Bratia](ru/3.2-bratia.md)
+  - []()
