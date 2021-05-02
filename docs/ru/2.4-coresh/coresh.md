@@ -1,6 +1,9 @@
-![Coresh-Logo](../../_media/logo-coresh.png ":size=150")
-
-# Coresh
+<div style="display:flex; flex-direction: row;align-items: center;">
+<div> <img width="150"  height="auto" src="../../_media/logo-coresh.png" alt="Coresh"></div>
+<div>
+<h1>Coresh</h1>
+</div>
+</div>
 
 ?> <span style="vertical-align: -12px">![telegram](../../_media/icon-github.png ":size=32")</span> [**Репозиторий**](https://github.com/grandcore/coresh")
 <span style="vertical-align: -12px">![telegram](../../_media/icon-figma.png ":size=32")</span> [**Экраны**](https://www.figma.com/file/NlikNEJQHliYlxI3MHhiSW/Share?node-id=9566%3A8798)
