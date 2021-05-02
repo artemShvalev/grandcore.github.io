@@ -11,7 +11,7 @@
 Фронтенд инфраструктура используемая проектами фонда GrandCore. UI-фреймворк, соглашения, скрипты автоматизации.
 
 - [Идеи для проекта](ru/3.6-stroyka/stroyka-ideas.md)
-- [Схемы и карты](ru/3.6-stroyka/stroyka-map.drawio)
+- [Схемы и карты](ru/3.6-stroyka/stroyka-map.drawio ":ignore")
 - [0.1 (описание версии)](ru/3.6-stroyka/stroyka-v0.1.md)
 - [1.0 (описание версии)](ru/3.6-stroyka/stroyka-v1.0.md)
 
