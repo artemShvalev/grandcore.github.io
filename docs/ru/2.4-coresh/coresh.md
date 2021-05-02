@@ -5,9 +5,9 @@
 </div>
 </div>
 
-?> <span style="vertical-align: -12px">![github](../../_media/icon-github.png ":size=32")</span> [**Репозиторий**](https://github.com/grandcore/coresh")
+?> <span style="vertical-align: -12px">![github](../../_media/icon-github.png ":size=32")</span> [**Код**](https://github.com/grandcore/coresh")
 <span style="vertical-align: -12px">![figma](../../_media/icon-figma.png ":size=32")</span> [**Экраны**](https://www.figma.com/file/NlikNEJQHliYlxI3MHhiSW/Share?node-id=9566%3A8798)
-<span style="vertical-align: -12px">![telegram](../../_media/icon-telegram.png ":size=32")</span> [**Рабочий чат**](https://t.me/joinchat/EyxWDelw7VKZPTuO)
+<span style="vertical-align: -12px">![telegram](../../_media/icon-telegram.png ":size=32")</span> [**Чат**](https://t.me/joinchat/EyxWDelw7VKZPTuO)
 
 Сервис для поиска друзей на базе телеграм-бота. Помогает найти единомышленников задавая вопросы сообществу, а так же отвечая на вопросы и оценивая ответы других пользователей.
 
