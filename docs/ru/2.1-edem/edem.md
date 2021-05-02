@@ -1,7 +1,7 @@
 <div style="display:flex; flex-direction: row;align-items: center;">
 <div> <img width="150"  height="auto" src="../../_media/logo-edem.png" alt="#EDem"></div>
 <div>
-<h1>Человеческий Язык</h1>
+<h1>Человеческий Язык2</h1>
 </div>
 </div>
 
