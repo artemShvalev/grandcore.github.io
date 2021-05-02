@@ -1,12 +1,15 @@
-![GC/OS-Logo](../../_media/logo-gcos.png ":size=150")
-
-# GC/OS
+<div style="display:flex; flex-direction: row;align-items: center;">
+<div> <img width="150"  height="auto" src="../../_media/logo-gcos.png" alt="GC/OS"></div>
+<div>
+<h1>GC/OS</h1>
+</div>
+</div>
 
 !> Данный проект является перспектиным. Если у вас есть желание участвовать, пишите в рабочий чат проекта.
 
-?> <span style="vertical-align: -12px">![telegram](../../_media/icon-github.png ":size=32")</span> [**Репозиторий**](https://github.com/grandcore/gcos)
-<span style="vertical-align: -12px">![telegram](../../_media/icon-figma.png ":size=32")</span> [**Экраны**](https://www.figma.com/file/NlikNEJQHliYlxI3MHhiSW/Share?node-id=9473%3A0)
-<span style="vertical-align: -12px">![telegram](../../_media/icon-telegram.png ":size=32")</span> [**Рабочий чат**](https://t.me/joinchat/F9bwPh_8usijiQDt)
+?> <span style="vertical-align: -12px">![github](../../_media/icon-github.png ":size=32")</span> [**Код**](https://github.com/grandcore/gcos)
+<span style="vertical-align: -12px">![figma](../../_media/icon-figma.png ":size=32")</span> [**Экраны**](https://www.figma.com/file/NlikNEJQHliYlxI3MHhiSW/Share?node-id=9473%3A0)
+<span style="vertical-align: -12px">![telegram](../../_media/icon-telegram.png ":size=32")</span> [**Чат**](https://t.me/joinchat/F9bwPh_8usijiQDt)
 
 Экспериментальный дистрибутив Linux основанный на Arch, заточенный на личную продуктивность и информационную безопасность.
 

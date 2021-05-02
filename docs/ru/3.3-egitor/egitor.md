@@ -1,12 +1,15 @@
-![Egitor-Logo](../../_media/logo-egitor.png ":size=150")
-
-# Egitor
+<div style="display:flex; flex-direction: row;align-items: center;">
+<div> <img width="150"  height="auto" src=".../../_media/logo-egitor.png" alt="Egitor"></div>
+<div>
+<h1>Egitor</h1>
+</div>
+</div>
 
 !> Данный проект является перспектиным. Если у вас есть желание участвовать, пишите в рабочий чат проекта.
 
-?> <span style="vertical-align: -12px">![telegram](../../_media/icon-github.png ":size=32")</span> [**Репозиторий**](https://github.com/grandcore/egitor)
-<span style="vertical-align: -12px">![telegram](../../_media/icon-figma.png ":size=32")</span> [**Экраны**](https://www.figma.com/file/NlikNEJQHliYlxI3MHhiSW/Share?node-id=9473%3A2)
-<span style="vertical-align: -12px">![telegram](../../_media/icon-telegram.png ":size=32")</span> [**Рабочий чат**](https://t.me/joinchat/GwwWCrrAtdbNROqG)
+?> <span style="vertical-align: -12px">![github](../../_media/icon-github.png ":size=32")</span> [**Код**](https://github.com/grandcore/egitor)
+<span style="vertical-align: -12px">![figma](../../_media/icon-figma.png ":size=32")</span> [**Экраны**](https://www.figma.com/file/NlikNEJQHliYlxI3MHhiSW/Share?node-id=9473%3A2)
+<span style="vertical-align: -12px">![telegram](../../_media/icon-telegram.png ":size=32")</span> [**Чат**](https://t.me/joinchat/GwwWCrrAtdbNROqG)
 
 Творческий конвейер, выстраивающий процесс от потребления, обработки и накопления информации до реализации конечного творческого продукта.
 

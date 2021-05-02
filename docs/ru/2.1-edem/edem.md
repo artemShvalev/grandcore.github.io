@@ -5,8 +5,8 @@
 </div>
 </div>
 
-?> <span style="vertical-align: -12px">![telegram](../../_media/icon-github.png ":size=32")</span> [**Код**](https://github.com/grandcore/edem)
-<span style="vertical-align: -12px">![telegram](../../_media/icon-figma.png ":size=32")</span> [**Экраны**](https://www.figma.com/file/NlikNEJQHliYlxI3MHhiSW/Share?node-id=9473%3A1)
+?> <span style="vertical-align: -12px">![github](../../_media/icon-github.png ":size=32")</span> [**Код**](https://github.com/grandcore/edem)
+<span style="vertical-align: -12px">![figma](../../_media/icon-figma.png ":size=32")</span> [**Экраны**](https://www.figma.com/file/NlikNEJQHliYlxI3MHhiSW/Share?node-id=9473%3A1)
 <span style="vertical-align: -12px">![telegram](../../_media/icon-telegram.png ":size=32")</span> [**Чат**](https://t.me/joinchat/TGPjZpSOcRfyhk7y)
 
 Система коллективного управления проектами с возможностью гибко настроить алгоритмы принятия решений и кастомизировать интерфейсы работы над задачами.
