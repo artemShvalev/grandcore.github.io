@@ -3,6 +3,7 @@
 - [Самое главное](ru/)
 - [О Фонде](ru/1-about.md)
   - [Манифест](ru/1-about/about-manifest.md)
+  - [Web21](ru/1-about/about-web21.md)
 - [Текущие проекты](ru/2-corrents.md)
   - [EDem](ru/2.1-edem/edem.md)
   - [GrandCore (платформа)](ru/2.2-grandcore/grandcore.md)
@@ -15,4 +16,3 @@
   - [GC/OS](ru/3.4-gcos/gcos.md)
   - [project335](ru/3.5-project335/project335.md)
   - [Stroyka](ru/3.6-stroyka/stroyka.md)
-  - [Web21](ru/3.7-web21/web21.md)
