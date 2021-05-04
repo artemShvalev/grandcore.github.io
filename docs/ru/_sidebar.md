@@ -1,9 +1,8 @@
 ![logo](https://grandcore.org/_media/site-logo-nav.png ":size=200")
 
 - [Самое главное](ru/)
-- [О Фонде](ru/1-about.md)
-  - [Манифест](ru/1-about/about-manifest.md)
-  - [Web21](ru/1-about/about-web21.md)
+  - [Манифест](ru/1-general/general-manifest.md)
+  - [Web21](ru/1-general/general-web21.md)
 - [Текущие проекты](ru/2-corrents.md)
   - [EDem](ru/2.1-edem/edem.md)
   - [GrandCore (платформа)](ru/2.2-grandcore/grandcore.md)
