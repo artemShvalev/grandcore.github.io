@@ -2,7 +2,7 @@
 
 - [Самое главное](ru/)
   - [Манифест](ru/1-general/general-manifest.md)
-  - [Web21](ru/1-general/general-web21.md)
+  - [web21](ru/1-general/general-web21.md)
 - [Текущие проекты](ru/2-corrents.md)
   - [EDem](ru/2.1-edem/edem.md)
   - [GrandCore (платформа)](ru/2.2-grandcore/grandcore.md)
