@@ -2,7 +2,7 @@
 
 - [Самое главное](ru/)
   - [Манифест фонда](ru/1-general/general-1-manifest.md)
-  - [Концепция DeG](ru/1-general/general-2-deg.md)
+  - [Концепция deG](ru/1-general/general-2-deg.md)
   - [Концепция web21](ru/1-general/general-3-web21.md)
 - [Текущие проекты](ru/2-corrents.md)
   - [EDem](ru/2.1-edem/edem.md)
