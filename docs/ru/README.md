@@ -2,6 +2,12 @@
 
 Наша цель — создать идеальную экосистему для работы над проектами под свободной лицензией, со всеми необходимыми для этого инструментами. Не только программного обеспечения, но и стадартов изделий, а так же этичных онлайн сервисов.
 
+**Наша философия:**
+
+- [Манифест фонда](1-general-1-manifest.md)
+- [Концепция DeG](1-general/general-2-deg.md)
+- [Концепция web21](1-general-3-web21.md)
+
 ?> <span style="vertical-align: -12px">![telegram](../_media/icon-telegram.png ":size=32")</span> [**Telegram-Канал**](https://t.me/grandcore_news)
 <span style="vertical-align: -12px">![telegram](../_media/icon-telegram.png ":size=32")</span> [**Telegram-Чат**](https://t.me/grandcore_chat) <span style="vertical-align: -12px">![youtube](../_media/icon-youtube.png ":size=32")</span> [**YouTube-Канал**](https://www.youtube.com/c/GrandCore/)
 <span style="vertical-align: -12px">![github](../_media/icon-github.png ":size=32")</span> [**GitHub-Репозиторий**](https://github.com/grandcore/)
