@@ -5,18 +5,11 @@
 </div>
 </div>
 
-!> Данный проект является перспектиным. Если у вас есть желание участвовать, пишите в рабочий чат проекта.
-
 ?> <span style="vertical-align: -12px">![github](../../_media/icon-github.png ":size=32")</span> [**Код**](https://github.com/grandcore/stroyka)
 <span style="vertical-align: -12px">![figma](../../_media/icon-figma.png ":size=32")</span> [**Экраны**](https://www.figma.com/file/NlikNEJQHliYlxI3MHhiSW/Share?node-id=9473%3A6)
 <span style="vertical-align: -12px">![telegram](../../_media/icon-telegram.png ":size=32")</span> [**Чат**](https://t.me/joinchat/GPkcwp0wlxousk0T)
 
-Фронтенд инфраструктура используемая проектами фонда GrandCore. UI-фреймворк, соглашения, скрипты автоматизации.
-
-- [Идеи для проекта](ru/3.6-stroyka/stroyka-ideas.md)
-- [Схемы и карты](ru/3.6-stroyka/stroyka-map.drawio ":ignore")
-- [0.1 (описание версии)](ru/3.6-stroyka/stroyka-v0.1.md)
-- [1.0 (описание версии)](ru/3.6-stroyka/stroyka-v1.0.md)
+Соглашения, темплейты проектов и UI-киты проектов GrandCore Foundation.
 
 **Кураторы проекта**
 
@@ -24,4 +17,6 @@
 
 ## Цель проекта
 
-## Краткое описание
+Создать базовые принципы разработки и поддержки проектов в рамках фонда GrandCore.
+
+Смотрите репозиторий, участвуйте в обсуждении в чате.
