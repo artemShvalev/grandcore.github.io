@@ -16,8 +16,16 @@ _Прочитайте эти три небольшие статьи, что бы
 
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/9MhpHu85r08" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
-Вы можете стать участником нашего проекта [пожертвовав](ru/donat.md) посильную сумму. Все деньги пойдут на продвижение.
+## Давайте вместе менять мир!
 
-Также вы можете [присоедениться](ru/comanda.md) к нашей команде и участвовать в разработке. Мы всегда рады и дизайнерам и разработчикам и просто волонтёрам для выполнения задач не требующих специальных навыков.
+**Текущие проекты:**
 
-Статус текущих проектов вы можете посмотреть на [этой](ru/2-corrents.md) странице. По любым вопросам пишите основателю фонда - [t.me/grandcore](https://t.me/grandcore).
+- [OpenSсhool](ru/2.3-openschool/openschool.md) - свободная образовательная платформа
+- [Coresh](ru/2-corrents.md) - сервис поиска лучших друзей
+
+**Как помочь:**
+
+- [Пожертвовуйте](ru/donat.md) посильную сумму на продвижение
+- [Присоеденитесь](ru/comanda.md) к нашей команде. Дело найдётся всем
+
+По любым вопросам пишите основателю фонда - [t.me/grandcore](https://t.me/grandcore).
