@@ -9,6 +9,7 @@ _Прочитайте эти три небольшие статьи, что бы
 - [Манифест фонда](ru/1-general/general-1-manifest.md)
 - [Концепция deG](ru/1-general/general-2-deg.md)
 - [Концепция web21](ru/1-general/general-3-web21.md)
+- [RoadMap](ru/1-general/general-4-roadmap.md)
 
 ?> <span style="vertical-align: -12px">![telegram](../_media/icon-telegram.png ":size=32")</span> [**Telegram-Канал**](https://t.me/grandcore_news)
 <span style="vertical-align: -12px">![telegram](../_media/icon-telegram.png ":size=32")</span> [**Telegram-Чат**](https://t.me/grandcore_chat) <span style="vertical-align: -12px">![youtube](../_media/icon-youtube.png ":size=32")</span> [**YouTube-Канал**](https://www.youtube.com/c/GrandCore/)
