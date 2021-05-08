@@ -12,7 +12,7 @@
 <span style="vertical-align: -12px">![telegram](../_media/icon-telegram.png ":size=32")</span> [**Telegram-Чат**](https://t.me/grandcore_chat) <span style="vertical-align: -12px">![youtube](../_media/icon-youtube.png ":size=32")</span> [**YouTube-Канал**](https://www.youtube.com/c/GrandCore/)
 <span style="vertical-align: -12px">![github](../_media/icon-github.png ":size=32")</span> [**GitHub-Репозиторий**](https://github.com/grandcore/)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9MhpHu85r08" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/9MhpHu85r08" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
 Вы можете стать участником нашего проекта [пожертвовав](ru/donat.md) посильную сумму. Все деньги пойдут на продвижение.
 
