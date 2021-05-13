@@ -2,6 +2,6 @@
 
 // body.style.color = "blue";
 
-if (location.pathname == "") {
+if (location.pathname == "https://grandcore.org/#/") {
   $("body").css("color", "red");
 }
