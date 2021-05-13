@@ -6,8 +6,6 @@
 //   $("body").css("color", "red");
 //
 
-console.log(777);
-
-if (window.location == "https://grandоcore.org/#/") {
+if (window.location == "https://grandcore.org/#/") {
   console.log(666);
 }
