@@ -4,11 +4,10 @@
 
 // if (location.pathname == "https://grandcore.org/#/") {
 //   $("body").css("color", "red");
-// 
+//
 
+console.log(777);
 
-console.log(666);
-
-if (window.location == https://grandcore.org/#/") {
+if (window.location == "https://grandcore.org/#/") {
   console.log(666);
 }
