@@ -38,7 +38,10 @@
         nextText: 'Далее',
         crossChapter: true,
         crossChapterText: true,
-  },
+        },
+      plugins: [
+        EditOnGithubPlugin.create(docBase, docEditBase, title)
+    ],
 
 
       };
@@ -46,7 +49,7 @@
     <!-- Docsify v4 -->
     <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
     <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
-
+    <script src="//cdn.jsdelivr.net/npm/docsify-edit-on-github"></script>
 
     
   </body>
