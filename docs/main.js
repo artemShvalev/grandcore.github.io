@@ -8,6 +8,6 @@
 
 console.log(777);
 
-if (window.location == "https://grandcore.org/#/") {
+if (window.location == "https://grandоcore.org/#/") {
   console.log(666);
 }
