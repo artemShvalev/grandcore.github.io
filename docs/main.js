@@ -2,6 +2,13 @@
 
 // body.style.color = "blue";
 
-if (location.pathname == "https://grandcore.org/#/") {
-  $("body").css("color", "red");
+// if (location.pathname == "https://grandcore.org/#/") {
+//   $("body").css("color", "red");
+// 
+
+
+
+
+if (window.location == https://grandcore.org/#/") {
+  console.log(666);
 }
