@@ -7,6 +7,6 @@
 //
 
 if (window.location == "https://grandcore.org/#/") {
-  console.log(669);
+  console.log(6610);
   // $("body").addClass("cover-text-fix");
 }
