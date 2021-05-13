@@ -7,7 +7,7 @@
 // 
 
 
-
+console.log(666);
 
 if (window.location == https://grandcore.org/#/") {
   console.log(666);
