@@ -10,3 +10,6 @@ if (window.location == "https://grandcore.org/#/") {
   console.log(6610);
   // $("body").addClass("cover-text-fix");
 }
+
+var element = document.getElementById("myDIV");
+element.classList.add("mystyle");
