@@ -13,19 +13,6 @@
       rel="stylesheet"
       href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css"
     />
-
-    <!-- Google Analytics -->
-<script>
-(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-ga('create', 'UA-XXXXX-Y', 'auto');
-ga('send', 'pageview');
-</script>
-<!-- End Google Analytics -->
-
     
   </head>
 
@@ -45,11 +32,21 @@ ga('send', 'pageview');
           "/": "_404.md",
           "/ru": "ru/_404.md",
         },
+
+      pagination: {
+        previousText: 'Назад',
+        nextText: 'Далее',
+        crossChapter: true,
+        crossChapterText: true,
+  },
+
+
+
       };
     </script>
     <!-- Docsify v4 -->
     <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
-    <script src="//unpkg.com/docsify/lib/plugins/emoji.min.js"></script>
+    <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
 
 
     
