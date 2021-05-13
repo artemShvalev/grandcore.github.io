@@ -8,4 +8,5 @@
 
 if (window.location == "https://grandcore.org/#/") {
   console.log(666);
+  body.classList.add("cover-text-fix");
 }
