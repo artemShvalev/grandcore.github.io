@@ -6,7 +6,7 @@
 
 <iframe width="560" height="460" src="https://www.youtube.com/embed/hKXWZ6lEw4M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Почитайте про наш фонде
+## Подробнее про наш фонд
 
 - [Манифест фонда](ru/1-general/general-1-manifest.md)
 - [Концепция deG](ru/1-general/general-2-deg.md)
