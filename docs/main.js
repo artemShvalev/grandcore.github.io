@@ -11,9 +11,11 @@
 // if (window.location == "https://grandcore.org/#/") {
 
 function ch() {
-  console.log("Hash has changed!!");
+  console.log("Hash has changed!");
   x.style.cssText = "color:red;";
 }
+
+window.addEventListener("hashchange", console.log("переход"));
 
 // }
 // else {
