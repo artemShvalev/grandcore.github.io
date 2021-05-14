@@ -6,7 +6,7 @@
 //   $("body").css("color", "red");
 //
 
-// var x = document.getElementsByTagName("body")[0];
+//
 
 // if (window.location == "https://grandcore.org/#/") {
 
@@ -20,10 +20,12 @@
 //     x.style.cssText = "";
 //   };
 
+var x = document.getElementsByTagName("body")[0];
+
 if (location.pathname == "https://grandcore.org/#/") {
-  $("body").css("color", "red");
+  x.style.cssText = "color:red;";
 }
 
 $(window).bind("hashchange", function () {
-  console.log("Hash has changed!!!");
+  console.log("Hash has changed!1!!");
 });
