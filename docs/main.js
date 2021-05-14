@@ -15,8 +15,6 @@ function ch() {
   x.style.cssText = "color:red;";
 }
 
-window.addEventListener("hashchange", ch());
-
 // }
 // else {
 //     x.style.cssText = "";
