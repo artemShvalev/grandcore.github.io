@@ -9,7 +9,7 @@
 <span style="vertical-align: -12px">![figma](../../_media/icon-figma.png ":size=32")</span> [**UI-kit**](https://www.figma.com/file/NlikNEJQHliYlxI3MHhiSW/Share?node-id=9566%3A8799)
 <span style="vertical-align: -12px">![telegram](../../_media/icon-telegram.png ":size=32")</span> [**Чат**](https://t.me/joinchat/GPkcwp0wlxousk0T)
 
-Под словом "надфреймворк" на подразумеваем наши соглашения по рабочему процессу, темплейты проектов и UI-киты. Вы можете придумать другое название, пишите в рабочий чат.
+Под словом "надфреймворк" мы подразумеваем наши соглашения по рабочему процессу, темплейты проектов и UI-киты. Вы можете придумать другое название, пишите в рабочий чат.
 
 **Кураторы проекта**
 
