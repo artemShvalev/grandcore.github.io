@@ -7,8 +7,12 @@
 //
 
 var e = document.getElementsByTagName("body")[0];
-if (window.location == "https://grandcore.org/#/") {
-  e.style.cssText = "color:red;";
-} else {
-  e.style.cssText = " ";
-}
+
+window.addEventListener("hashchange", function (e) {
+  console.log("Hash has changed!");
+  if (window.location == "https://grandcore.org/#/") {
+    e.style.cssText = "color:red;";
+  } else {
+    e.style.cssText = "color:brue;";
+  }
+});
