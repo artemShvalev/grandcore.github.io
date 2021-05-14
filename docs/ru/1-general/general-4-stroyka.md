@@ -1,7 +1,7 @@
 <div style="display:flex; flex-direction: row;align-items: center;">
 <div> <img width="150"  height="auto" src=".../../_media/logo-stroyka.png" alt="Stroyka"></div>
 <div>
-<h1>Stroyka</h1>
+<h1>Надфреймворк Stroyka</h1>
 </div>
 </div>
 
