@@ -2,13 +2,13 @@
 
 Наша цель — создать идеальную экосистему для работы над проектами под свободной лицензией, со всеми необходимыми для этого инструментами. Не только программного обеспечения, но и стадартов изделий, а так же этичных онлайн сервисов.
 
-**Маленькая презентация:**
+## Маленькая презентация
 
-<iframe width="560" height="auto" src="https://www.youtube.com/embed/hKXWZ6lEw4M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="460" src="https://www.youtube.com/embed/hKXWZ6lEw4M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**Наша философия:**
+## Наша философия
 
-Прочитайте эти три небольшие статьи, что бы понять чем мы вообще занимаемся.
+Почитайте подробнее о нашем фонде
 
 - [Манифест фонда](ru/1-general/general-1-manifest.md)
 - [Концепция deG](ru/1-general/general-2-deg.md)
