@@ -6,12 +6,9 @@
 //   $("body").css("color", "red");
 //
 
+var e = document.getElementsByTagName("body")[0];
 if (window.location == "https://grandcore.org/#/") {
-  console.log(6611);
-  var e = document.getElementsByTagName("body")[0];
-  console.log(e);
   e.style.cssText = "color:red;";
+} else {
+  e.style.cssText = " ";
 }
-
-var element = document.getElementById("myDIV");
-element.classList.add("mystyle");
