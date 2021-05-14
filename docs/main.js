@@ -20,6 +20,10 @@
 //     x.style.cssText = "";
 //   };
 
+if (location.pathname == "https://grandcore.org/#/") {
+  $("body").css("color", "red");
+}
+
 $(window).bind("hashchange", function () {
   console.log("Hash has changed!");
 });
