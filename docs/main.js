@@ -10,22 +10,22 @@
 
 // if (window.location == "https://grandcore.org/#/") {
 
-//   window.addEventListener("hashchange", function (e) {
-//     console.log("Hash has changed!");
-//       x.style.cssText = "color:red;";
-//     }
+window.addEventListener("hashchange", function (e) {
+   console.log("Hash has changed!");
+      x.style.cssText = "color:red;";
+    }
 
 // }
 // else {
 //     x.style.cssText = "";
 //   };
 
-var x = document.getElementsByTagName("body")[0];
+// var x = document.getElementsByTagName("body")[0];
 
-if (location.pathname == "https://grandcore.org/#/") {
-  x.style.cssText = "color:red;";
-}
+// if (location.pathname == "https://grandcore.org/#/") {
+//   x.style.cssText = "color:red;";
+// }
 
-$(window).bind("hashchange", function () {
-  console.log("Hash has changed!1!!");
-});
+// $(window).bind("hashchange", function () {
+//   console.log("Hash has changed!1!!");
+// 
