@@ -25,5 +25,5 @@ if (location.pathname == "https://grandcore.org/#/") {
 }
 
 $(window).bind("hashchange", function () {
-  console.log("Hash has changed!");
+  console.log("Hash has changed!!!");
 });
