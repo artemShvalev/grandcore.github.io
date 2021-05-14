@@ -6,13 +6,12 @@
 
 <iframe width="560" height="460" src="https://www.youtube.com/embed/hKXWZ6lEw4M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Наша философия
-
-Почитайте подробнее о нашем фонде
+## Почитайте про наш фонде
 
 - [Манифест фонда](ru/1-general/general-1-manifest.md)
 - [Концепция deG](ru/1-general/general-2-deg.md)
 - [Концепция web21](ru/1-general/general-3-web21.md)
+- [Надфреймворк Stroyka](ru/1-general/general-4-stroyka.md)
 - [RoadMap](ru/1-general/general-4-roadmap.md)
 
 ?> <span style="vertical-align: -12px">![telegram](../_media/icon-telegram.png ":size=32")</span> [**Telegram-Канал**](https://t.me/grandcore_news)

@@ -17,4 +17,3 @@
   - [Egitor](ru/3.3-egitor/egitor.md)
   - [GC/OS](ru/3.4-gcos/gcos.md)
   - [project335](ru/3.5-project335/project335.md)
-  - [Stroyka](ru/3.6-stroyka/stroyka.md)
