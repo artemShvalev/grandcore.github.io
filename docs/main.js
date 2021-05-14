@@ -6,13 +6,20 @@
 //   $("body").css("color", "red");
 //
 
-var e = document.getElementsByTagName("body")[0];
+// var x = document.getElementsByTagName("body")[0];
 
-window.addEventListener("hashchange", function (e) {
+// if (window.location == "https://grandcore.org/#/") {
+
+//   window.addEventListener("hashchange", function (e) {
+//     console.log("Hash has changed!");
+//       x.style.cssText = "color:red;";
+//     }
+
+// }
+// else {
+//     x.style.cssText = "";
+//   };
+
+$(window).bind("hashchange", function () {
   console.log("Hash has changed!");
-  if (window.location == "https://grandcore.org/#/") {
-    e.style.cssText = "color:red;";
-  } else {
-    e.style.cssText = "color:brue;";
-  }
 });
