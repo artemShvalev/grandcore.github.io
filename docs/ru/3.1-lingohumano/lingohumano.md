@@ -11,7 +11,7 @@
 <span style="vertical-align: -12px">![figma](../../_media/icon-figma.png ":size=32")</span> [**Экраны**](https://www.figma.com/file/NlikNEJQHliYlxI3MHhiSW/Share?node-id=9473%3A3)
 <span style="vertical-align: -12px">![telegram](../../_media/icon-telegram.png ":size=32")</span> [**Чат**](https://t.me/joinchat/FsYnmawRwjAsESKH)
 
-Новая попытка создать международный (плановый) язык на основе компромисса английского и остальных основных языков, а так же упрощённой грамматикой без коллизий.
+Платформа в рамках которой будет вестись разработка нового международного (плановый) языка на основе компромисса английского и остальных основных языков, а так же упрощённой однозначной грамматикой без коллизий и исключений.
 
 - [Идеи для проекта](ru/3.1-lingohumano/lingohumano-ideas.md)
 - [Схемы и карты](ru/3.1-lingohumano/lingohumano-map.drawio ":ignore")
