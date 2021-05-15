@@ -5,13 +5,13 @@
 </div>
 </div>
 
-!> Данный проект является перспектиным. Если у вас есть желание участвовать, пишите в рабочий чат проекта.
+!> Данный проект является перспективным. Если у вас есть желание участвовать, пишите в рабочий чат.
 
 ?> <span style="vertical-align: -12px">![github](../../_media/icon-github.png ":size=32")</span> [**Код**](https://github.com/grandcore/gcos)
 <span style="vertical-align: -12px">![figma](../../_media/icon-figma.png ":size=32")</span> [**Экраны**](https://www.figma.com/file/NlikNEJQHliYlxI3MHhiSW/Share?node-id=9473%3A0)
 <span style="vertical-align: -12px">![telegram](../../_media/icon-telegram.png ":size=32")</span> [**Чат**](https://t.me/joinchat/F9bwPh_8usijiQDt)
 
-Экспериментальный дистрибутив Linux основанный на Arch, заточенный на личную продуктивность и информационную безопасность.
+Экспериментальный дистрибутив Linux основанный на Arch, нацеленный на интеграцию социальных функций и кастомизацию.
 
 - [Идеи для проекта](ru/3.4-gcos/gcos-ideas.md)
 - [Схемы и карты](ru/3.4-gcos/gcos-map.drawio ":ignore")

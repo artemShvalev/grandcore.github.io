@@ -5,13 +5,13 @@
 </div>
 </div>
 
-!> Данный проект является перспектиным. Если у вас есть желание участвовать, пишите в рабочий чат проекта.
+!> Данный проект является перспективным. Если у вас есть желание участвовать, пишите в рабочий чат.
 
 ?> <span style="vertical-align: -12px">![github](../../_media/icon-github.png ":size=32")</span> [**Код**](https://github.com/grandcore/egitor)
 <span style="vertical-align: -12px">![figma](../../_media/icon-figma.png ":size=32")</span> [**Экраны**](https://www.figma.com/file/NlikNEJQHliYlxI3MHhiSW/Share?node-id=9473%3A2)
 <span style="vertical-align: -12px">![telegram](../../_media/icon-telegram.png ":size=32")</span> [**Чат**](https://t.me/joinchat/GwwWCrrAtdbNROqG)
 
-Творческий конвейер, выстраивающий процесс от потребления, обработки и накопления информации до реализации конечного творческого продукта.
+Персональный конвейер для потребления и обработки информации, выстраивающий процесс от потребления, обработки и накопления информации до реализации конечного творческого продукта на её основе (например, статья, книга итд).
 
 - [Идеи для проекта](ru/3.3-egitor/egitor-ideas.md)
 - [Схемы и карты](ru/3.3-egitor/egitor-map.drawio ":ignore")

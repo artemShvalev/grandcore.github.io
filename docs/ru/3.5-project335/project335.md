@@ -5,7 +5,7 @@
 </div>
 </div>
 
-!> Данный проект является перспектиным. Если у вас есть желание участвовать, пишите в рабочий чат проекта.
+!> Данный проект является перспективным. Если у вас есть желание участвовать, пишите в рабочий чат.
 
 ?> <span style="vertical-align: -12px">![github](../../_media/icon-github.png ":size=32")</span> [**Код**](https://github.com/grandcore/project335)
 <span style="vertical-align: -12px">![figma](../../_media/icon-figma.png ":size=32")</span> [**Экраны**](https://www.figma.com/file/NlikNEJQHliYlxI3MHhiSW/Share?node-id=9473%3A5)
