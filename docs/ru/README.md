@@ -1,6 +1,6 @@
 # Самое главное
 
-Наша цель — создать идеальную экосистему для работы над проектами под свободной лицензией, со всеми необходимыми для этого инструментами. Не только программного обеспечения, но и стадартов изделий, а так же этичных онлайн сервисов.
+Наша цель — создать идеальную экосистему для работы над проектами под свободной лицензией. Не только для программного обеспечения, но и для стандартов изделий, а так же этичных онлайн сервисов. 
 
 ?> <span style="vertical-align: -12px">![telegram](../_media/icon-telegram.png ":size=32")</span> [**Telegram-Канал**](https://t.me/grandcore_news)
 <span style="vertical-align: -12px">![telegram](../_media/icon-telegram.png ":size=32")</span> [**Telegram-Чат**](https://t.me/grandcore_chat) <span style="vertical-align: -12px">![youtube](../_media/icon-youtube.png ":size=32")</span> [**YouTube-Канал**](https://www.youtube.com/c/GrandCore/)
