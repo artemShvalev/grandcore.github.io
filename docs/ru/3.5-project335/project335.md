@@ -5,13 +5,13 @@
 </div>
 </div>
 
-!> Данный проект является перспектиным. Если у вас есть желание участвовать, пишите в рабочий чат проекта.
+!> Данный проект является перспективным. Если у вас есть желание участвовать, пишите в рабочий чат.
 
 ?> <span style="vertical-align: -12px">![github](../../_media/icon-github.png ":size=32")</span> [**Код**](https://github.com/grandcore/project335)
 <span style="vertical-align: -12px">![figma](../../_media/icon-figma.png ":size=32")</span> [**Экраны**](https://www.figma.com/file/NlikNEJQHliYlxI3MHhiSW/Share?node-id=9473%3A5)
 <span style="vertical-align: -12px">![telegram](../../_media/icon-telegram.png ":size=32")</span> [**Чат**](https://t.me/joinchat/FH6xqyRXvUpUC8PW)
 
-Иной взгляд на интернет-поиск. Структурированная в ручном и полуавтоматическом режиме информация, вместо поисковой выдачи.
+Иной взгляд на интернет-поиск. Структурированная в ручном и полуавтоматическом режиме информация, вместо стандартной поисковой выдачи.
 
 - [Идеи для проекта](ru/3.5-project335/project335-ideas.md)
 - [Схемы и карты](ru/3.5-project335/project335-map.drawio ":ignore")

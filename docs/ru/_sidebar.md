@@ -4,6 +4,8 @@
   - [Манифест фонда](ru/1-general/general-1-manifest.md)
   - [Концепция deG](ru/1-general/general-2-deg.md)
   - [Концепция web21](ru/1-general/general-3-web21.md)
+  - [Надфреймворк Stroyka](ru/1-general/general-4-stroyka.md)
+  - [RoadMap](ru/1-general/general-5-roadmap.md)
 - [Текущие проекты](ru/2-corrents.md)
   - [EDem](ru/2.1-edem/edem.md)
   - [GrandCore (платформа)](ru/2.2-grandcore/grandcore.md)
@@ -15,4 +17,3 @@
   - [Egitor](ru/3.3-egitor/egitor.md)
   - [GC/OS](ru/3.4-gcos/gcos.md)
   - [project335](ru/3.5-project335/project335.md)
-  - [Stroyka](ru/3.6-stroyka/stroyka.md)
