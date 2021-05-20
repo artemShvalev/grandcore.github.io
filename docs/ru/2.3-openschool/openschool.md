@@ -6,7 +6,7 @@
 </div>
 
 ?> <span style="vertical-align: -12px">![github](../../_media/icon-github.png ":size=32")</span> [**Код**](https://github.com/grandcore/openschool")
-<span style="vertical-align: -12px">![figma](../../_media/icon-figma.png ":size=32")</span> [**Экраны**](https://www.figma.com/file/NlikNEJQHliYlxI3MHhiSW/Share?node-id=9473%3A4)
+<span style="vertical-align: -12px">![figma](../../_media/icon-figma.png ":size=32")</span> [**Экраны**](https://www.figma.com/file/t8ttKwTUGHXPusH4MVFa31/Share?node-id=1%3A571)
 <span style="vertical-align: -12px">![telegram](../../_media/icon-telegram.png ":size=32")</span> [**Чат**](https://t.me/openschool_chat)
 
 Открытая образовательная платформа. Реализация подхода Anki (Duolingo), расширенного заданиями и внешними ссылками на материалы. Формирование курсов выполняется сообществом и профессиональными преподавателями, труд которых оплачивается с помощью краудфандинга.
