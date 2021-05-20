@@ -6,7 +6,7 @@
 </div>
 
 ?> <span style="vertical-align: -12px">![github](../../_media/icon-github.png ":size=32")</span> [**Шаблоны**](https://github.com/grandcore/stroyka)
-<span style="vertical-align: -12px">![figma](../../_media/icon-figma.png ":size=32")</span> [**UI-kit**](https://www.figma.com/file/NlikNEJQHliYlxI3MHhiSW/Share?node-id=9566%3A8799)
+<span style="vertical-align: -12px">![figma](../../_media/icon-figma.png ":size=32")</span> [**UI-kit**](https://www.figma.com/file/t8ttKwTUGHXPusH4MVFa31/Share?node-id=0%3A1)
 <span style="vertical-align: -12px">![telegram](../../_media/icon-telegram.png ":size=32")</span> [**Чат**](https://t.me/joinchat/GPkcwp0wlxousk0T)
 
 Под словом "надфреймворк" мы подразумеваем наши соглашения по рабочему процессу, темплейты проектов и UI-кит. Вы можете придумать другое название, пишите в рабочий чат.
